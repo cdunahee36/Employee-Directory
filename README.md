@@ -17,6 +17,3 @@ keep better track of who works for them and contact an employee if needed.
 
 ## Screenshots
 
-![PIC1.png](https://raw.github.com/{cdunahee36}/{Employee-Directory}/{main}/{./src/screenshots})
-
-![PIC2.png](https://raw.github.com/{cdunahee36}/{Employee-Directory}/{main}/{./src/screenshots})
