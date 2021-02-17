@@ -17,3 +17,5 @@ keep better track of who works for them and contact an employee if needed.
 
 ## Screenshots
 
+![](screenshots/PIC1.png)
+![](screenshots/PIC2.png)
