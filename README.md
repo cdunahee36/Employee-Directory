@@ -1,5 +1,7 @@
 # Employee-Directory
 
+## Link to live app
+https://cdunahee36.github.io/Employee-Directory/
 
 ## Description 
 
