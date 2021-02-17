@@ -15,6 +15,10 @@ then contact an employeed via all ways listed above.
 the CEO of a company may find this to be very useful. A company can
 keep better track of who works for them and contact an employee if needed.
 
+## License
+
+* MIT
+
 ## Screenshots
 
 ![](screenshots/PIC1.png)
