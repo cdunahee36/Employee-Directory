@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/DataBody.css";
-
+//This function creates the date of birth for the employees
 function DataBody({ users }) {
   function formatDate(date) {
     const dateArray = date.split("-");

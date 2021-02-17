@@ -1,7 +1,7 @@
 import React from "react";
 import DataBody from "./DataBody";
 import "../styles/DataTable.css";
-
+//This function allows the data to be viewed properly
 function DataTable({ headings, users, handleSort }) {
   return (
     <div className="datatable mt-5">

@@ -10,7 +10,7 @@ export default class DataArea extends Component {
     order: "descend",
     filteredUsers: [{}]
   }
-
+  //This creates the headings for each employee
   headings = [
     { name: "Image", width: "10%" },
     { name: "Name", width: "10%" },
@@ -77,6 +77,7 @@ export default class DataArea extends Component {
     this.setState({ filteredUsers: filteredList });
   }
 
+  //This function gets the data from the api
   componentDidMount() {
     API.getUsers().then(results => {
       this.setState({
@@ -85,7 +86,7 @@ export default class DataArea extends Component {
       });
     });
   }
-
+  //This fucntion renders the data into the table
   render() {
     return (
       <>

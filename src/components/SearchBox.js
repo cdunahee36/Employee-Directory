@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/SearchBox.css";
-
+//This function holds the users search box
 function SearchBox({ handleSearchChange }) {
   return (
     <div className="searchbox">
